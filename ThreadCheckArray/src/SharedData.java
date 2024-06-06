@@ -1,3 +1,5 @@
+/**comment*/
+
 public class SharedData 
 {
 	private int [] array;
